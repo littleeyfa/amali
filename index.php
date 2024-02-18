@@ -6,7 +6,7 @@
 <body>
 
 <h1>Source Code Management</h1>
-<p>Semester 4</p>
+<marquee><p>Semester 4</p></marquee>
 <tr>
   <th>Firstname</th>
   <th>Lastname</th>
