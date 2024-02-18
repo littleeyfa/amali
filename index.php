@@ -3,6 +3,12 @@
 <head>
 <title>Page Title</title>
 </head>
+  <style>
+table, th, td {
+    border: 1px solid black;
+  font: 1em sans-serif;
+}
+</style>
 <body style="background-color: brown;">
 
 <h1>Source Code Management</h1>
