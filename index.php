@@ -3,7 +3,7 @@
 <head>
 <title>Page Title</title>
 </head>
-<body>
+<body style="background-image: url('gambar.png');">
 
 <h1>Source Code Management</h1>
 <marquee><p>Semester 4</p></marquee>
